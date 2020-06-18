@@ -1,0 +1,18 @@
+.twoTimesWolf {
+  color: #919191;
+  background-color: transparent;
+  border: 1px solid #919191;
+  border-radius: 3px;
+  font-size: 1.125rem;
+  padding: 0 5px;
+  margin: 0 5px;
+  transition: 0.3s border-color;
+}
+.twoTimesWolf:hover {
+  color: #5ac7f8;
+  border-color: #5ac7f8;
+}
+.twoTimesWolf:focus {
+  color: #5ac7f8;
+  border-color: #5ac7f8;
+}
