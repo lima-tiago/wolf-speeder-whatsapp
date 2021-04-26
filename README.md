@@ -2,8 +2,8 @@
 Duplicador de velocidade de áudios para whatsapp
 
 # Instalando
-- Ative o modo do desenvolvedor no canto direito superior;
 - No Google Chrome acesse ``` chrome://extensions/ ```
+- Ative o modo do desenvolvedor no canto direito superior;
 - Arraste a pasta para dentro da janela
 
 # Usando
